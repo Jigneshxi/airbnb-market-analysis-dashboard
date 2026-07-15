@@ -1,5 +1,5 @@
 # Airbnb Market Analysis: Chicago vs. New Orleans
-AlmaBetter Capstone Project - Module 4: Data Visualization
+AlmaBetter Capstone Project - Module 4: Data Visualization (Data Analytics and Business Intelligence)
 
 ## 📌 Project Overview
 This project presents an end-to-end data analytics and visualization workflow comparing Airbnb market dynamics across two diverse US cities: **Chicago** and **New Orleans**. 
